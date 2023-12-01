@@ -1,0 +1,44 @@
+.container {
+		text-align: Center;
+		border: 2px solid black;
+		border-color: #b2b2b2;
+		border-width: 5px;
+	}
+	.container p {
+		margin: 5px 0;
+		padding: 1px;
+	}
+	.container1 p {
+		text-align: center;
+	}
+	body {
+		background-color: #575757;
+		color: #000040;
+	}
+	h1 {
+		font-size: 40px;
+		margin: 5px 0;
+	}
+	h2 {
+		font-size: 30px;
+		text-align: center;
+	}
+	h3 {
+		font-size: 30px;
+	}
+	h4 {
+		font-size: 30px;
+	}
+	h5 {
+		font-size: 30px;
+	}
+	h6 {
+		font-size: 30px;
+	}
+	p {
+		font-size: 20px;
+	}
+	hr {
+		height: 2px;
+		color: #b2b2b2;
+	}
